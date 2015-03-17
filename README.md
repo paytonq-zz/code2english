@@ -1,2 +1,2 @@
 # code2english
-A command line tool that converts code to english.  Currently working on implementing Java -> English.  Written in Haskell.
+A tool that converts code to english.  Currently working on implementing Java -> English.  Ultimately planning on implementing a web app frontend.
